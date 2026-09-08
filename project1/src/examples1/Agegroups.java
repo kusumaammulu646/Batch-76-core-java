@@ -1,3 +1,4 @@
+package examples1;
 import java.util.Scanner;
 public class Agegroups {
 

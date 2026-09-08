@@ -1,3 +1,4 @@
+package examples1;
 
 public class Shoppingcart {
 	 static String storename="lucky electrical";

@@ -4,6 +4,8 @@
 //for float & double--->0.0
 // for char---(empty space)
 //for boolean it is -->false
+package examples1;
+
 public class Datatypes {
 	byte b;
 	short s;

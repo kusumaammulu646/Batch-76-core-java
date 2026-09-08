@@ -1,3 +1,4 @@
+package examples1;
 
 public class Digitalwatch {
 	String brandname;

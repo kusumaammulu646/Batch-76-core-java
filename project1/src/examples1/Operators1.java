@@ -1,7 +1,8 @@
 
+package examples1;
 public class Operators1 {
 
-	package com.operators;
+
 
 ////2) Assignment Operators
 ////	= += -= *= /= %= 
@@ -39,4 +40,4 @@ public class TestAssignmentOpDemo2 {
 
 	}
 
-}
+
